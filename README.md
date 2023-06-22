@@ -1,8 +1,7 @@
 Hi there,
 
 - I’m currently working on Discord Bots.
-- I’m currently learning JavaScript, HTML, CSS and Java
-- I’m looking for help with youtube tutorials (lol)
-- Ask me about help :D
-- How to reach me: Europe / Austria
+- I’m currently learning JavaScript, HTML and CSS
+- I’m looking for help but you also can ask me questions
+- You can reach me in Austria
 - Pronouns: he/him
